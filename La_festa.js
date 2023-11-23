@@ -92,7 +92,7 @@ while (condition) {
         break;
 
         default:
-            alert("Prodotto non disponibile")
+            alert("Scelta non valida")
         break;
     }
 
